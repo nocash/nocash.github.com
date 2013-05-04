@@ -21,7 +21,10 @@ Columbus OH, 43201
 
 ### Experience
 
-**Developer,** 2006 - present  
+**Developer,** 2013 - present
+[Substantial](substantial.com)
+
+**Developer,** 2006 - 2013
 [2Checkout, Inc.](2checkout.com)
 
 As lead, and occasionally only developer on 2Checkout's public facing content
